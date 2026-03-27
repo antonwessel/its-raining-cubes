@@ -1,2 +1,5 @@
-# its-raining-cubes
-tiny unity project. cubes fall. that's the whole thing
+# It's Raining Cubes
+
+just messing around in unity.
+
+cubes fall from the sky.
